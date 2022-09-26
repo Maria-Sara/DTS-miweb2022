@@ -1,0 +1,104 @@
+
+body {background-color: Gainsboro;}
+
+.fondo { width: 500px;
+	height: 300px;
+	background: white;
+	margin: 50px;
+	display: inline-block;
+	float: left;
+
+}
+
+#Laos { background-color: grey;}
+
+.franja1 {width: 500px;
+	height: 80px;
+	background-color: rgb(206, 17, 19);
+}
+ 
+.franja2 { width: 500px;
+	height: 140px;
+	background-color: rgb(1, 40, 105);
+}
+
+.franja3 { width: 500px;
+	height: 80px;
+	background-color: rgb(206, 17, 19);}
+	
+.circulo {
+	height: 110px;
+	width: 110px;
+	background-color: white;
+	border-radius: 100%;
+	position: absolute;
+	margin-left: 190px;
+	margin-top: 15px;
+
+}
+.nombre1 { 
+	position: relative;
+	margin-top: 1px;}
+
+a {color: blue;}
+a:hover {color: magenta;} 
+
+
+#Japon { background-color: white; }
+
+.franj11{
+	width: 500px;
+	height: 140px;
+	background-color: white;
+}
+
+.circulo2 {
+	height: 175px;
+	width: 175px;
+	background-color: rgb(188, 0, 45);
+	border-radius: 100%;
+	position: absolute;
+	margin-left: 160px;
+	margin-top: 60px;
+}
+.nombre2 { 
+	position: relative;
+	margin-top: 300px;
+}
+a {color: blue;}
+a:hover {color: magenta;} 
+
+
+#mexico { background-color: white; }
+.franja111 {
+	width: 166px;
+	height: 300px;
+	background-color: rgb( 0, 104, 71);
+	float: left;
+}
+
+.franja222 {
+	width: 167px;
+	height: 300px;
+	background-color: white;
+	float: left;
+}
+
+.franja333 {
+	width: 167px;
+	height: 300px;
+	background-color: rgb(216, 17, 38);
+	float: left;
+}
+
+a {color: blue;}
+a:hover {color: magenta;} 
+
+.img {
+	height: 130px;
+	height: 130px;
+	position: absolute;
+	margin-left: 13px;
+	margin-top: 90px;
+}
+
